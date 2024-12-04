@@ -1,0 +1,60 @@
+{
+  "code-runner.runInTerminal": true,
+  "workbench.iconTheme": "material-icon-theme",
+  "workbench.list.smoothScrolling": true,
+  "diffEditor.wordWrap": "on",
+  "explorer.confirmDelete": false,
+  "explorer.compactFolders": false,
+  "terminal.integrated.smoothScrolling": true,
+  "terminal.integrated.defaultProfile.windows": "PowerShell",
+  "terminal.integrated.gpuAcceleration": "auto",
+  "terminal.integrated.fontFamily": "FiraCode Nerd Font",
+  "terminal.integrated.fontWeight": "500",
+  "files.exclude": {
+    "**/.git": false
+  },
+  "editor.wordWrap": "on",
+  "editor.fontFamily": "FiraCode Nerd Font",
+  "editor.cursorSmoothCaretAnimation": "on",
+  "editor.smoothScrolling": true,
+  "editor.fontWeight": "500",
+  "editor.cursorBlinking": "expand",
+  "editor.minimap.enabled": false,
+  "editor.stickyScroll.enabled": false,
+  "editor.lineHeight": 2,
+  "editor.mouseWheelZoom": true,
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[css]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[scss]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[jsonc]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact",
+    "typescript": "typescriptreact"
+  },
+  "githubPullRequests.terminalLinksHandler": "github",
+  "workbench.externalBrowser": "chrome",
+  "githubPullRequests.pullBranch": "never",
+  "files.autoSave": "afterDelay",
+  "workbench.productIconTheme": "fluent-icons",
+  "explorer.confirmDragAndDrop": false,
+  "workbench.colorTheme": "GitHub Dark Default"
+}
